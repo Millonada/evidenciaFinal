@@ -1,0 +1,66 @@
+2020-11-21 15:38:53.692 [main] ERROR db.ConsultorioAdmin - Opción inválida: 10
+2020-11-21 15:38:55.831 [main] INFO  db.ConsultorioAdmin - Saliendo...
+2020-11-21 16:01:48.348 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: Customer)
+2020-11-22 09:42:47.154 [main] ERROR db.ConsultorioAdmin - class java.sql.SQLException: no such column: 'id'
+2020-11-22 09:46:18.587 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (near "intopaciente": syntax error)
+2020-11-22 09:46:18.588 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-22 09:46:18.589 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-22 09:47:12.794 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (unrecognized token: "0nullnullnullnull")
+2020-11-22 09:48:19.270 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (unrecognized token: "0nullnullnullnull")
+2020-11-22 09:50:56.091 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-22 09:50:56.314 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-22 09:50:56.524 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-22 09:53:03.139 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 10:21:34.254 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: nullnullnull)
+2020-11-22 10:23:33.344 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: df)
+2020-11-22 10:25:14.039 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (unrecognized token: "}")
+2020-11-22 10:27:12.644 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (near "as": syntax error)
+2020-11-22 10:29:37.470 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: a)
+2020-11-22 10:29:57.421 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: a)
+2020-11-22 10:31:02.893 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: s)
+2020-11-22 10:32:05.030 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: a)
+2020-11-22 10:35:00.894 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: s)
+2020-11-22 10:59:36.134 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: angel)
+2020-11-22 11:00:20.518 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: angel)
+2020-11-22 11:00:59.318 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: angel)
+2020-11-22 11:04:22.557 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: jos)
+2020-11-22 11:07:18.839 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (table paciente has no column named nomfbre)
+2020-11-22 11:07:50.441 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such column: jos)
+2020-11-22 11:10:31.932 [main] ERROR db.ConsultorioAdmin - class java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+2020-11-22 11:13:13.281 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (near "'as'": syntax error)
+2020-11-22 11:14:36.083 [main] ERROR db.ConsultorioAdmin - class java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+2020-11-22 11:15:55.913 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (5 values for 4 columns)
+2020-11-22 11:16:18.474 [main] ERROR db.ConsultorioAdmin - class java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+2020-11-22 11:17:06.731 [main] ERROR db.ConsultorioAdmin - class java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 0
+2020-11-22 11:18:06.007 [main] ERROR db.ConsultorioAdmin - class java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+2020-11-22 11:22:18.158 [main] ERROR db.ConsultorioAdmin - class java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+2020-11-22 11:22:46.406 [main] ERROR db.ConsultorioAdmin - class java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+2020-11-22 11:24:48.073 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-22 11:46:03.391 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 11:46:53.841 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 11:48:05.466 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 11:49:29.378 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 11:50:41.953 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 11:54:57.820 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 12:10:21.055 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 12:19:15.605 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 12:24:14.286 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 12:29:31.720 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-22 12:29:38.110 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 12:30:19.743 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 12:32:45.592 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 12:34:57.280 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 13:14:02.083 [main] ERROR db.ConsultorioAdmin - class java.sql.SQLException: No suitable driver found for jdbc:sqliteconsultorio.db
+2020-11-22 13:14:47.259 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: citaPivote)
+2020-11-22 13:43:02.834 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_ERROR] SQL error or missing database (no such table: citasPivote)
+2020-11-22 13:53:53.995 [main] ERROR db.ConsultorioAdmin - class java.util.MissingFormatArgumentException: Format specifier '%-4d'
+2020-11-22 13:54:22.085 [main] ERROR db.ConsultorioAdmin - class java.util.MissingFormatArgumentException: Format specifier '%-4d'
+2020-11-22 13:55:41.486 [main] ERROR db.ConsultorioAdmin - class java.util.MissingFormatArgumentException: Format specifier '%-4d'
+2020-11-22 15:14:48.320 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 15:16:25.647 [main] ERROR db.ConsultorioAdmin - class java.lang.NullPointerException: null
+2020-11-22 15:25:04.485 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_BUSY]  The database file is locked (database is locked)
+2020-11-28 15:15:29.837 [main] ERROR db.ConsultorioAdmin - class org.sqlite.SQLiteException: [SQLITE_SCHEMA]  The database schema changed (no such column: id)
+2020-11-28 15:16:13.773 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-28 15:36:26.375 [main] ERROR db.ConsultorioAdmin - class java.util.InputMismatchException: null
+2020-11-28 15:38:42.681 [main] ERROR db.ConsultorioAdmin - class java.sql.SQLException: no such column: 'nombre     |'
+2020-11-28 15:50:21.239 [main] ERROR db.ConsultorioAdmin - class java.sql.SQLException: ResultSet closed
